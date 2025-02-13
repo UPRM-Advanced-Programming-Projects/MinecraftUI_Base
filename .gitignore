@@ -1,0 +1,8 @@
+obj
+bin/fmod.dll
+bin/minecraft.exe
+
+#For any Mac Users:
+bin/INSERT_NAME_PROJECT_HERE.app/
+#(This is to ignore the .app files that
+#mac computers generate)

@@ -1,8 +1,40 @@
-obj
-bin/fmod.dll
-bin/minecraft.exe
+# Prerequisites
+*.d
 
-#For any Mac Users:
-bin/INSERT_NAME_PROJECT_HERE.app/
-#(This is to ignore the .app files that
-#mac computers generate)
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+/obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+*.plist
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Log files
+*.log
+
+# .vscode folder
+.vscode/
